@@ -1,0 +1,11 @@
+Q1: JSON object             3/5 (infinite loop)
+Q2: 1/1/2015 creation_dates 2/5 (need to get more pages while has_more)
+Q3: question_dataframe.csv  5/10 (parsed subset)
+Q4: Users distance matrix   15/30 (incomplete)
+Q5: Users plt               0/10
+Q6: Timeseries              0/30
+Q7: Timeseries plt          0/10
+
+Total:                      25/100
+
+commit a0c2bd9eab29fc167cd424fabaf613024b2bacd6
